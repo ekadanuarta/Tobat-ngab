@@ -4,7 +4,7 @@ echo "--------------------------------"
 
 echo "         TOOL Ngentod Onlen        "
 
-echo "          © author EDA GANS    "
+echo "          © author EKA GANS    "
 
 echo "             _Unfaedah_          "
 
