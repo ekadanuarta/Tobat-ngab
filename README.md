@@ -16,6 +16,6 @@ installasi
 
 4. gem install lolcat
 
-5. git clone  https://github.com/ekadanuarta/yok-kita-gang-dia/
+5. git clone  https://github.com/ekadanuarta/Tobat-ngab .git
 
 6. sh Ngentod.sh
